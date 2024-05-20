@@ -10,6 +10,7 @@ Passionate about software development, I'm currently a second-year student in pr
 - HTML5 & CSS3
 - JavaScript & PHP
 - Algorithm Optimization
+
 🚀 **Interests:**
 - Full-Stack Development
 - Cybersecurity
