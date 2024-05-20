@@ -1,14 +1,13 @@
 👋 Hi, I'm **Taibi Alaoui El Hassane**! 
-
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 💻 Passionate about software development, I'm currently a second-year student in preparatory classes for engineering schools in France. I'm actively seeking an apprenticeship opportunity for the 2024 engineering cycle to further enhance my skills and gain hands-on experience.
 
 🔧 **Skills:**
 - Python
 - MySQL
 - HTML5 & CSS3
-- JavaScript
+- JavaScript & PHP
 - Algorithm Optimization
-
 🚀 **Interests:**
 - Full-Stack Development
 - Cybersecurity
