@@ -1,9 +1,8 @@
-[![Taibi Alaoui El Hassane - banner](https://github-readme-stats.vercel.app/api?username=Hassanala0ui)]([https://github.com/anuraghazra/github-readme-stats](https://www.linkedin.com/in/el-hassane-taibi-alaoui/overlay/background-image/))
+![](https://media.licdn.com/dms/image/D4E16AQHAGexPX_sviA/profile-displaybackgroundimage-shrink_350_1400/0/1714406394520?e=1721865600&v=beta&t=XoqiTVQBYBJdenAlFV0ajEahYRwUeZGnS98kFvzh6RA)
 
+### Hi there 👋, my name is El Hassane
 
-👋 Hi, I'm **Taibi Alaoui El Hassane**! 
-
-💻 Passionate about software development, I'm currently a second-year student in preparatory classes for engineering schools in France. I'm actively seeking an apprenticeship opportunity for the 2024 engineering cycle to further enhance my skills and gain hands-on experience.
+Passionate about software development, I'm currently a second-year student in preparatory classes for engineering schools in France. I'm actively seeking an apprenticeship opportunity for the 2024 engineering cycle to further enhance my skills and gain hands-on experience.
 
 🔧 **Skills:**
 - Python
