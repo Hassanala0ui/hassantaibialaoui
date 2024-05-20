@@ -1,4 +1,5 @@
-[![Taibi alaoui El Hassane - banner]([https://github-readme-stats.vercel.app/api?username=anuraghazra](https://www.linkedin.com/in/el-hassane-taibi-alaoui/overlay/background-image/))]((https://www.linkedin.com/in/el-hassane-taibi-alaoui/))
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=hass1alaoui)](![image](https://github.com/Hassanala0ui/hassantaibialaoui/assets/100096858/5b9c6463-a18d-4eb4-8236-3a11741dc09a)
+)
 
 👋 Hi, I'm **Taibi Alaoui El Hassane**! 
 
