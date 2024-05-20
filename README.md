@@ -1,4 +1,4 @@
-[![Taibi Alaoui El Hassane - banner]([https://github-readme-stats.vercel.app/api?username=anuraghazra](https://www.linkedin.com/in/el-hassane-taibi-alaoui/overlay/background-image/))]([https://github.com/anuraghazra/github-readme-stats](https://www.linkedin.com/in/el-hassane-taibi-alaoui/overlay/background-image/))
+[![Taibi alaoui El Hassane - banner]([https://github-readme-stats.vercel.app/api?username=anuraghazra](https://www.linkedin.com/in/el-hassane-taibi-alaoui/overlay/background-image/))](https://github.com/anuraghazra/github-readme-stats)
 
 👋 Hi, I'm **Taibi Alaoui El Hassane**! 
 
