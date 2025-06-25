@@ -21,6 +21,6 @@
 - AI and Machine Learning
 
 📫 **Let's connect:**
-- [LinkedIn](https://www.linkedin.com/in/taibi-alaoui-el-hassane/)
+- [LinkedIn](https://www.linkedin.com/in/el-hassane-taibi-alaoui/)
 - [Email](mailto:taibialaouihassan@gmail.com)
 - [Website](https://alaoui.online/)
